@@ -1,3 +1,12 @@
-<div align="right">
-<img src="https://cdn.just-plain.fun/img/0B45BB2B1F76E2B735983508E00A0D2A.png" width="60%" />
-<div/>
+
+<img align="right" src="https://github.com/YiNNx/YiNNx/assets/86649490/c82df293-5c9d-44e8-ac45-bf1419efdd6c" width="40%" />
+
+I'm ...
+
+- 🔭 My skills: ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+- 📑 Here's my blog:
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YiNNx" width="38%" />
