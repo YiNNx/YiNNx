@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/YiNNx/YiNNx/assets/86649490/c82df293-5c9d-44e8-ac45-bf1419efdd6c" width="40%" />
+<img align="right" src="https://cdn.just-plain.fun/img/image-20231218173554216.png" width="40%" />
 
 - I'm Xintian Yin, an undergraduate in HUST, China
 - Interests
