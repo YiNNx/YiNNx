@@ -1,3 +1,12 @@
-<div align="right">
-<img src="https://cdn.just-plain.fun/img/0B45BB2B1F76E2B735983508E00A0D2A.png" width="60%" />
-<div/>
+<img align="right" src="https://cdn.just-plain.fun/img/image-20231218173554216.png" width="40%" />
+
+- I'm Xintian Yin, an undergraduate in HUST, China
+- Interests
+  - Web Development
+  - Linux
+  - Kubernetes
+- How to reach me - yinnnxt@gmail.com
+- My Blog - [just-plain.fun](https://just-plain.fun)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YiNNx" width="38%" />
+
