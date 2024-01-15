@@ -2,7 +2,7 @@
 
 - I'm Xintian Yin, an undergraduate in HUST, China
 - Interests
-  - Web Development
+  - Web Development (Golang & Rust & React)
   - Linux
   - Kubernetes
 - How to reach me - yinnnxt@gmail.com
