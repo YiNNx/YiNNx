@@ -1,0 +1,161 @@
+{
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "[c]": {
+        "editor.quickSuggestions":{
+            "other": "on",
+            "comments": "on",
+            "strings": "on"
+        }
+    },
+    "editor.tokenColorCustomizations":{
+        "[GitHub Light]": {
+            // "keywords": "#009793",
+            // "functions": "#FF0000",
+            // "variables": "#00e5ff",
+            "keywords": "#009793",
+            // "comments": "#8b8fa1",
+            "types": "#3788F1",
+            "functions": "#3788F1",
+            // "numbers": "#5e4444",
+            "strings": "#4b678c",
+            "textMateRules": [
+                {
+                    "scope": "keyword",
+                    "settings": {
+                        "foreground": "#009793"
+                    }
+                }
+            ]
+
+        },
+        "[Winter is Coming (Light - No Italics)]": {
+           "functions": "#b9218e",
+           "comments": "#9a9a9a",
+           "textMateRules":[
+            {
+                "scope":"entity",
+                "settings": {
+                    "foreground": "#6f42c2",
+                }
+            },
+            {
+                "scope":"k",
+                "settings": {
+                    // "foreground": "#f5883f",
+                    // "fontStyle": "bold"
+                }
+            }
+           ]
+        }
+
+    },
+    "editor.fontFamily": "'JetBrains Mono', 'FuraCode Nerd Font Mono Light', Consolas, 'Courier New'",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22,
+    "editor.showFoldingControls": "always",
+    "workbench.colorCustomizations": {
+        "editorGutter.background": "#ffffff"
+    },
+    "editor.codeLensFontFamily": "'JetBrains Mono','FuraCode Nerd Font Mono Light'",
+    "editor.inlayHints.fontFamily": "'JetBrains Mono'",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+     //配置eslint
+     "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    // "eslint.run": "onSave",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true // 保存时使用eslint校验文件
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "eslint.alwaysShowStatus": true,
+    "eslint.codeActionsOnSave.rules": null,
+    "security.workspace.trust.untrustedFiles": "open",
+    "yaml.schemas": {
+        "file:///home/yinn/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
+    },
+    "java.format.settings.url": "~/.vscode/extensions/redhat.java-1.11.0-linux-x64/formatters/eclipse-formatter.xml",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "java.classPath": [
+        "~/Myfiles/Projects/cs61b/library-sp18/javalib"
+    ],
+    "editor.minimap.size": "fit",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "C_Cpp.formatting": "vcFormat",
+
+    "fileheader.cursorMode": {
+    },
+    "fileheader.customMade": {
+      "Author": "", // 改成你的名字
+      "Date": "", // 文件创建时间
+      "LastEditTime": "", // 文件最后编辑时间
+      "Description":""
+    },
+    
+    "fileheader.configObj": {
+      "CheckFileChange": false, // 默认关闭
+      "wideSame": false, // 设置为true开启
+      "wideNum": 13, // 字段长度 默认为13
+      "createHeader": false // 创建文件自动添加注释
+    },
+    "debug.onTaskErrors": "showErrors",
+    "go.lintTool": "golint",
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cStandard": "c11",
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+    "[python]": {
+    
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[jsonc]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "workbench.colorTheme": "GitHub Light",
+    "[sql]": {
+    
+        "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "tamasfe.even-better-toml"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.editorAssociations": {
+        "*.pdf": "default"
+    }
+}
